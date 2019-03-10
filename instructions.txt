@@ -1,0 +1,6 @@
+Instructions to run the Project : 
+1. copy paste the todolist.sql script in Mysql server studio.
+2.change the data source, id and pwd in web.config file according to your credentials of sql studio.
+3.open control panel -> prgrams ->enable IIS AND IIS Host web services. (Internet infromation services).
+4.right click on todolist in solution explorer ->web ->select IISExpress in servers and bitness as Default and -> Ctrl+s
+5.goto the opened .sln file and press f or click on "run IIS Express (google chrome)".
